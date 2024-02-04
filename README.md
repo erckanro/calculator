@@ -15,7 +15,7 @@
 - Open the app in your browser and perform calculations with ease.
 - Feel free to explore the code and customize the application to suit your needs. Contributions and suggestions are welcome!
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
